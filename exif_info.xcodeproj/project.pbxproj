@@ -601,7 +601,7 @@
 				CODE_SIGN_ENTITLEMENTS = exif_info/exif_info.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 6;
+				CURRENT_PROJECT_VERSION = 7;
 				HEADER_SEARCH_PATHS = ./exiv2/include;
 				INFOPLIST_FILE = "$(SRCROOT)/exif_info/product_special/exif_info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -613,7 +613,7 @@
 					"$(PROJECT_DIR)/exiv2/lib",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				MARKETING_VERSION = 1.1.0;
+				MARKETING_VERSION = 1.2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.vxpen.ExifInfo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -625,7 +625,7 @@
 				CODE_SIGN_ENTITLEMENTS = exif_info/exif_info.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 6;
+				CURRENT_PROJECT_VERSION = 7;
 				HEADER_SEARCH_PATHS = ./exiv2/include;
 				INFOPLIST_FILE = "$(SRCROOT)/exif_info/product_special/exif_info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -637,7 +637,7 @@
 					"$(PROJECT_DIR)/exiv2/lib",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				MARKETING_VERSION = 1.1.0;
+				MARKETING_VERSION = 1.2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.vxpen.ExifInfo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
